@@ -16,6 +16,7 @@ The project displays user information on the webpage and also logs the API respo
 - Log users data in the browser console
 - Error handling using `.catch()` and `try...catch`
 - Implement both:
+
   - Promise-based approach
   - Async/Await approach
 
